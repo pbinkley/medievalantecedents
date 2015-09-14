@@ -2,7 +2,9 @@
 
 An attempt to surface medieval roots for information innovations which are too often attributed to the Renaissance or Early Modern periods.
 
-Popular books (such as *Glut*) by non-medievalists have attempted to mine the Middle Ages for precedents, but have failed because of their lack of familiarity with manuscript culture. This sketch will try to remedy this by pointing to the more relevant parallels which the popularizers have missed. It will focus on the mainstream rather than the one-offs, and primarily on the university milieu.
+Resource: https://www.zotero.org/groups/medievalantecedents/items
+
+Popular books (such as Alex Wright's *Glut*) by non-medievalists have attempted to mine the Middle Ages for precedents, but have failed because of their lack of familiarity with manuscript culture. This sketch will try to remedy this by pointing to the more relevant parallels which the popularizers have missed. It will focus on the mainstream rather than the one-offs, and primarily on the university milieu.
 
 ## Distinctions
 
